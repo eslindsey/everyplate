@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Units
 permalink: /units
 style: |
