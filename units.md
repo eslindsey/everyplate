@@ -55,7 +55,7 @@ Big thanks to [u/Sstagman](https://www.reddit.com/user/Sstagman/) for starting t
 | Dijon Mustard | 0.25 | oz | [1](#notes) |
 | Dried Thyme | 1 | tsp |
 | Farro | ¾<br/>5 | cup<br/>oz | [2](#notes) |
-| Flour Tortillas | 6 | tortillas |
+| Flour Tortillas | 6 | tortillas (6") |
 | Frank's Seasoning Blend | 0.25 | oz |
 | Ginger | 0.5 | oz |
 | Hoisin Sauce | 1 | fl oz |
