@@ -2,3 +2,7 @@
 ---
 
 @import "{{ site.theme }}";
+
+td:nth-of-type(even) {
+  background: #f5ede0;
+}
