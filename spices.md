@@ -1,6 +1,9 @@
-# Spice Blends
+layout: page
+title: "Spice Blends"
+permalink: /spice-blends
 
-A list of the contents of the spice blends provided by EveryPlate and HelloFresh, in case you want to DIY.
+This is a list of the contents of the spice blends provided by EveryPlate and HelloFresh, in case you'd
+like to make them yourself.
 
 ## Help Out
 
