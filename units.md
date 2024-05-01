@@ -69,7 +69,7 @@ Big thanks to [u/Sstagman](https://www.reddit.com/user/Sstagman/) for starting t
 | Parsley | 0.2 | oz | [1](#notes) |
 | Peanuts | 1 | oz |
 | Ponzu Sauce | 2 | tsp |
-| Scallions | 2 | scallions |
+| Scallions | 2 |
 | Shredded Mozzarella | 2 | oz |
 | Sour Cream | 1 | oz |
 | Southwest Spice Blend | 1 | TBSP |
