@@ -30,9 +30,9 @@ Big thanks to [u/Sstagman](https://www.reddit.com/user/Sstagman/) for starting t
 | Chicken Stock Concentrate | 0.34 oz |
 | Chickpeas | 13.4 oz |
 | Coconut Milk | 2/3 cup |
-| Coleslaw | 3 Tbsp |
+| Coleslaw | 3 TBSP |
 | Corn | 15.25 oz |
-| Corn Starch | 1 Tbsp |
+| Corn Starch | 1 TBSP |
 | Couscous | 1/2 cup |
 | Cream Cheese | 1 ounce |
 | Dijon Honey Mustard Dressing | 1.5 oz |
@@ -56,12 +56,12 @@ Big thanks to [u/Sstagman](https://www.reddit.com/user/Sstagman/) for starting t
 | Scallions | 2 scallions |
 | Shredded Mozzarella | 2 oz |
 | Sour Cream | 1 oz |
-| Southwest Spice Blend | 1 Tbsp |
+| Southwest Spice Blend | 1 TBSP |
 | Soy Sauce | 0.34 oz | [¹](#notes) |
-| Sweet Thai Chili Sauce | 2 Tbsp |
-| Tomato Paste | 2 Tbsp |
-| Turkish Spice Blend | 1 Tbsp |
-| Tuscan Heat Spice | 1 Tbsp |
+| Sweet Thai Chili Sauce | 2 TBSP |
+| Tomato Paste | 2 TBSP |
+| Turkish Spice Blend | 1 TBSP |
+| Tuscan Heat Spice | 1 TBSP |
 | Reduced Fat Milk | 8 ounces |
 | White Wine Vinegar | 25 mL |
 | Wasabi | 0.15 oz |
