@@ -12,10 +12,12 @@ Big shout out to [u/letitburn22](https://www.reddit.com/user/letitburn22/) for c
 ## The List
 
 * [Berbere Spice Blend](#berbere-spice-blend)
+* [Burger Spice Blend](#burger-spice-blend)
 * [Cajun Spice Blend](#cajun-spice-blend)
 * [Fall Spice Blend](#fall-spice-blend)
 * [Fry Seasoning](#fry-seasoning)
 * [Meatloaf Seasoning](#meatloaf-seasoning)
+* [Mexican Spice Blend](#mexican-spice-blend)
 * [Shawarma Spice Blend](#shawarma-spice-blend)
 * [Smokey BBQ Seasoning](#smokey-bbq-seasoning)
 * [Southwest Spice Blend](#southwest-spice-blend)
@@ -30,6 +32,18 @@ Big shout out to [u/letitburn22](https://www.reddit.com/user/letitburn22/) for c
 - ¼ part ground ginger
 - ⅛ part ground cardamom
 - ⅛ part ground fenugreek
+
+### Burger Spice Blend
+
+- 1 TBSP Paprika
+- 1 1/4 tsp Salt
+- 1 tsp Ground Black Pepper
+- 1/2 tsp Garlic Powder
+- 1/2 tsp Brown Sugar
+- 1/2 tsp Onion Powder
+- 1/4 tsp Ground Cayenne Pepper
+
+Courtesy of [u/laab815](https://www.reddit.com/user/laab815/)
 
 ### Cajun Spice Blend
 - 2 part paprika
@@ -54,6 +68,21 @@ Big shout out to [u/letitburn22](https://www.reddit.com/user/letitburn22/) for c
 ### Meatloaf Seasoning
 - 2 parts onion powder
 - 2 parts garlic powder
+
+### Mexican Spice Blend
+
+- 2 TBSP Chili Powder
+- 1 TBSP Cumin
+- 1/2 TBSP Salt
+- 1/2 TBSP Ground Black Pepper
+- 1 tsp Paprika
+- 1/2 tsp Red Pepper Flakes
+- 1/2 tsp Oregano
+- 1/2 tsp Garlic Powder
+- 1/2 tsp Onion Powder
+- 1/4 tsp Ground Cayenne Pepper
+
+Courtesy of [u/laab815](https://www.reddit.com/user/laab815/)
 
 ### Shawarma Spice Blend
 - 2 part tumeric
