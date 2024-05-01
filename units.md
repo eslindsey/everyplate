@@ -1,3 +1,16 @@
+---
+layout: page
+title: Units
+permalink: /units
+style: |
+  td.nth-of-type(2) {
+    border-right: none;
+    padding-right: 0.25em;
+  }
+  td.nth-of-type(3) {
+    padding-left: none;
+  }
+---
 # Units
 
 This document is a record of how much EveryPlate (and HelloFresh) considers "1 unit" on
