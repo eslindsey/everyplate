@@ -9,6 +9,13 @@ See something missing? Submit [an issue](https://github.com/eslindsey/everyplate
 Big shout out to [u/letitburn22](https://www.reddit.com/user/letitburn22/) for compiling this initial list
 [on Reddit](https://www.reddit.com/r/hellofresh/comments/bawnby/hello_fresh_diy_spice_blends/)!
 
+## Parts
+
+If the recipe you're looking for only lists "parts," they are specifying the ingredients in terms of each
+other. For example, if the recipe is 3 parts salt, 1 part black pepper, you could make that using 3 tsp of
+salt and 1 tsp of pepper, or 6 TBSP of salt and 2 TBSP of pepper, or whatever unit is convenient for the
+amount you are trying to make.
+
 ## Table of Contents
 
 * [All American Spice Blend](#all-american-spice-blend)
@@ -41,19 +48,19 @@ Big shout out to [u/letitburn22](https://www.reddit.com/user/letitburn22/) for c
 
 ### All American Spice Blend
 #### Recipe 1
-- 1 tbsp ground cumin
-- 1 tbsp cayenne
-- 1 tbsp onion powder
-- 1 tbsp smoked paprika
+- 1 TBSP ground cumin
+- 1 TBSP cayenne
+- 1 TBSP onion powder
+- 1 TBSP smoked paprika
 - 2 tsp garlic powder
 - 1 tsp ground coriander
 - 1 tsp salt
 - 1 tsp dried parsley
-- 1/2 tsp black pepper
-- 1/2 tsp dried mustard
-- 1/2 tsp red pepper flakes
-- 1/4 tsp ground allspice
-- 1/8 tsp ground cloves
+- ½ tsp black pepper
+- ½ tsp dried mustard
+- ½ tsp red pepper flakes
+- ¼ tsp ground allspice
+- ⅛ tsp ground cloves
 Courtesy of [u/XmariyahX](https://www.reddit.com/user/XmariyahX/)
 #### Recipe 2
 - Garlic & Herb Spice
@@ -61,7 +68,7 @@ Courtesy of [u/XmariyahX](https://www.reddit.com/user/XmariyahX/)
 Courtesy of [u/Mybidda](https://www.reddit.com/user/Mybidda/)
 
 ### Berbere Spice Blend
-- 3 part paprika
+- 3 [part](#parts) paprika
 - 1 part cayenne
 - ½ part ground coriander
 - ¼ part ground ginger
@@ -70,16 +77,16 @@ Courtesy of [u/Mybidda](https://www.reddit.com/user/Mybidda/)
 
 ### Blackening Spice Blend
 - 3 tsp smoked paprika
-- 1.5 tsp garlic powder
-- .5 tsp white pepper
-- .5 tsp black pepper
-- .25 tsp thyme
-- .25 tsp oregano
-- .125 tsp low heat cayenne
+- 1½ tsp garlic powder
+- ½ tsp white pepper
+- ½ tsp black pepper
+- ¼ tsp thyme
+- ¼ tsp oregano
+- ⅛ tsp low heat cayenne
 Courtesy of [u/laab815](https://www.reddit.com/user/laab815/)
 
 ### Bold and Savory Steak Spice Blend
-- 1 part red chili flake
+- 1 [part](#parts) red chili flake
 - 1 part crushed coriander seed
 - 2 parts crushed dill seed
 - 3 parts crushed mustard seed
@@ -89,16 +96,16 @@ Courtesy of [u/XmariyahX](https://www.reddit.com/user/XmariyahX/)
 
 ### Burger Spice Blend
 - 1 TBSP Paprika
-- 1 1/4 tsp Salt
+- 1¼ tsp Salt
 - 1 tsp Ground Black Pepper
-- 1/2 tsp Garlic Powder
-- 1/2 tsp Brown Sugar
-- 1/2 tsp Onion Powder
-- 1/4 tsp Ground Cayenne Pepper
+- ½ tsp Garlic Powder
+- ½ tsp Brown Sugar
+- ½ tsp Onion Powder
+- ¼ tsp Ground Cayenne Pepper
 Courtesy of [u/laab815](https://www.reddit.com/user/laab815/)
 
 ### Cajun Spice Blend
-- 2 part paprika
+- 2 [part](#parts) paprika
 - 2 part onion powder
 - 1 part garlic powder
 - 1 part dried oregano
@@ -107,22 +114,22 @@ Courtesy of [u/laab815](https://www.reddit.com/user/laab815/)
 - ½ part cayenne
 
 ### Enchilada Spice Blend
-- 1 tbsp. chili powder
-- 1 tbsp. paprika
-- 2 tsp. cumin
-- 2 tsp. light brown sugar
-- 2 tsp. kosher salt
-- 1.5 tsp. onion powder
-- 1.5 tsp. garlic powder
-- 1.5 tsp. Mexican oregano
-- 1 tsp. chipotle chili powder
-- 1 tsp. ground coriander
-- 1 tsp. black pepper
-- 1/4 to .5 tsp. cayenne pepper
+- 1 TBSP chili powder
+- 1 TBSP paprika
+- 2 tsp cumin
+- 2 tsp light brown sugar
+- 2 tsp kosher salt
+- 1½ tsp onion powder
+- 1½ tsp garlic powder
+- 1½ tsp Mexican oregano
+- 1 tsp chipotle chili powder
+- 1 tsp ground coriander
+- 1 tsp black pepper
+- ¼ to ½ tsp cayenne pepper
 Courtesy of [u/XmariyahX](https://www.reddit.com/user/XmariyahX/)
 
 ### Fajita Spice Blend
-- 4 parts paprika
+- 4 [parts](#parts) paprika
 - 1 part onion powder
 - 1 part garlic powder
 - 1 part chili powder
@@ -130,18 +137,18 @@ Courtesy of [u/XmariyahX](https://www.reddit.com/user/XmariyahX/)
 - 1 part oregano
 
 ### Fall Spice Blend
-- 3 parts dried thyme
+- 3 [parts](#parts) dried thyme
 - 3 parts ground sage
 - 2 parts garlic powder
 - 1 part onion powder
 
 ### Fry Seasoning
-- 1 part garlic powder
+- 1 [part](#parts) garlic powder
 - 1 part onion powder
 - 1 part paprika
 
 ### Herbes de Provence Blend
-- 1 part savory
+- 1 [part](#parts) savory
 - 1 part thyme
 - 1 part rosemary
 - 1 part basil
@@ -150,7 +157,7 @@ Courtesy of [u/XmariyahX](https://www.reddit.com/user/XmariyahX/)
 Courtesy of [u/XmariyahX](https://www.reddit.com/user/XmariyahX/)
 
 ### Italian Seasoning Blend
-- 1 part garlic powder
+- 1 [part](#parts) garlic powder
 - 1 part oregano
 - 1 part basil
 - 1 part black pepper
@@ -158,11 +165,11 @@ Courtesy of [u/XmariyahX](https://www.reddit.com/user/XmariyahX/)
 Courtesy of [u/XmariyahX](https://www.reddit.com/user/XmariyahX/)
 
 ### Meatloaf Seasoning
-- 2 parts onion powder
+- 2 [parts](#parts) onion powder
 - 2 parts garlic powder
 
 ### Mediterranean Spice Blend
-- 2 parts dried oregano
+- 2 [parts](#parts) dried oregano
 - 1 part dried mint
 - 1 part sumac
 - 1 part ground coriander
@@ -171,44 +178,44 @@ Courtesy of [u/XmariyahX](https://www.reddit.com/user/XmariyahX/)
 ### Mexican Spice Blend
 - 2 TBSP Chili Powder
 - 1 TBSP Cumin
-- 1/2 TBSP Salt
-- 1/2 TBSP Ground Black Pepper
+- ½ TBSP Salt
+- ½ TBSP Ground Black Pepper
 - 1 tsp Paprika
-- 1/2 tsp Red Pepper Flakes
-- 1/2 tsp Oregano
-- 1/2 tsp Garlic Powder
-- 1/2 tsp Onion Powder
-- 1/4 tsp Ground Cayenne Pepper
+- ½ tsp Red Pepper Flakes
+- ½ tsp Oregano
+- ½ tsp Garlic Powder
+- ½ tsp Onion Powder
+- ¼ tsp Ground Cayenne Pepper
 Courtesy of [u/laab815](https://www.reddit.com/user/laab815/)
 
 ### Moo Shu Spice Blend
-- 1 part ground ginger
+- 1 [part](#parts) ground ginger
 - 1 part garlic powder
 Courtesy of [u/XmariyahX](https://www.reddit.com/user/XmariyahX/)
 
 ### Nan's Seasoning (aka Grandma's Seasoning)
 - 1 tsp paprika
 - 1 tsp Sugar
-- 0.5 tsp Sea salt
-- 0.5 tsp Garlic powder
-- 0.5 tsp Onion powder
-- 0.5 tsp Black pepper
+- ½ tsp Sea salt
+- ½ tsp Garlic powder
+- ½ tsp Onion powder
+- ½ tsp Black pepper
 Courtesy of [u/Estellar123](https://www.reddit.com/user/Estellar123/)
 
 ### Ras El Hanout
-- 1 teaspoon ground cumin
-- 1 teaspoon ground ginger
-- 1 teaspoon salt
-- ¾ teaspoon freshly ground black pepper
-- ½ teaspoon ground cinnamon
-- ½ teaspoon ground coriander seeds
-- ½ teaspoon cayenne
-- ½ teaspoon ground allspice
-- ¼ teaspoon ground cloves
+- 1 tsp ground cumin
+- 1 tsp ground ginger
+- 1 tsp salt
+- ¾ tsp freshly ground black pepper
+- ½ tsp ground cinnamon
+- ½ tsp ground coriander seeds
+- ½ tsp cayenne
+- ½ tsp ground allspice
+- ¼ tsp ground cloves
 Courtesy of [u/AngelLewie](https://www.reddit.com/user/AngelLewie/)
 
 ### Shawarma Spice Blend
-- 2 part tumeric
+- 2 [part](#parts) tumeric
 - 2 part cumin
 - 1 part dried coriander
 - 1 part garlic powder
@@ -217,7 +224,7 @@ Courtesy of [u/AngelLewie](https://www.reddit.com/user/AngelLewie/)
 - ½ part black pepper
 
 ### Smokey BBQ Seasoning
-- 8 parts smoked paprika
+- 8 [parts](#parts) smoked paprika
 - 6 parts granulated sugar
 - 2 parts garlic powder
 - 1 part dry mustard
@@ -226,7 +233,7 @@ Courtesy of [u/AngelLewie](https://www.reddit.com/user/AngelLewie/)
 - ½ part black pepper
 
 ### Smoky Cinnamon Paprika Spice Blend
-- 1 part ground cloves
+- 1 [part](#parts) ground cloves
 - 8 parts onion powder
 - 8 parts ground cinnamon
 - 6 parts smoked paprika
@@ -236,12 +243,12 @@ Courtesy of [u/AngelLewie](https://www.reddit.com/user/AngelLewie/)
 Courtesy of [u/XmariyahX](https://www.reddit.com/user/XmariyahX/)
 
 ### Southwest Spice Blend
-- 4 part garlic powder
+- 4 [part](#parts) garlic powder
 - 2 part cumin
 - 2 part chili powder
 
 ### Steak Spice Blend
-- 1 part red chili flakes
+- 1 [part](#parts) red chili flakes
 - 1 part crushed coriander seed
 - 2 parts crushed dill seed
 - 3 parts crushed mustard seed
@@ -251,48 +258,52 @@ Courtesy of [u/XmariyahX](https://www.reddit.com/user/XmariyahX/)
 Courtesy of [u/XmariyahX](https://www.reddit.com/user/XmariyahX/)
 
 ### Sweet Smoky BBQ Spice Blend
-- 8 parts smoked paprika
+- 8 [parts](#parts) smoked paprika
 - 6 parts sugar
 - 2 parts garlic powder
-- .5 part black pepper
+- ½ part black pepper
 - 1 part dry mustard
 - 1 part cumin
 - 1 part ground ginger
 Courtesy of [u/XmariyahX](https://www.reddit.com/user/XmariyahX/)
 
 ### Thai Seven Spice Blend
-- 2.5 tsp white sesame seeds
+- 2½ tsp white sesame seeds
 - 1 tsp chili flakes
 - 1 tsp ground coriander
 - 1 tsp onion powder
-- .5 tsp garlic powder
-- .5 tsp shrimp extract powder
-- .25 tsp cinnamon
-- .125 tsp low heat cayenne
+- ½ tsp garlic powder
+- ½ tsp shrimp extract powder
+- ¼ tsp cinnamon
+- ⅛ tsp low heat cayenne
 Courtesy of [u/XmariyahX](https://www.reddit.com/user/XmariyahX/)
 
 ### Tunisian Spice Blend
-- 4 parts ground caraway seed
+- 4 [parts](#parts) ground caraway seed
 - 4 parts ground coriander
 - 4 parts smoked paprika
 - 4 parts turmeric
 - 4 parts chili powder
 - 4 parts garlic powder
-- 1 part cayenne pepper \[7.5 k (hu)]
+- 1 part cayenne pepper (7.5k hu[¹](#notes))
 - 1 part cinnamon
 - 1 part ground black pepper
 
 ### Turkish Spice Blend
-- 2 part cumin
+- 2 [part](#parts) cumin
 - 2 part garlic powder
 - 1 part ground coriander
 - ¼ part ground allspice
 - ¼ part chili flakes
 
 ### Tuscan Heat Spice Blend
-- 4 parts dried basil
+- 4 [parts](#parts) dried basil
 - 2 parts dried rosemary
 - 2 parts dried oregano
 - 2 parts garlic powder
-- 1 part cayenne pepper \[7.5 k (hu)]
+- 1 part cayenne pepper (7.5k hu[¹](#notes))
 - 1 part ground fennel
+
+## Notes
+
+1. "hu" is heat unit. Most blends call for a low heat cayenne pepper (7,500 heat units or 7.5k hu) on the Scoville Scale.
