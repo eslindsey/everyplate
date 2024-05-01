@@ -8,8 +8,7 @@ be excluded).
 
 ## Help Out
 
-Keep this page up to date by [opening an issue](https://github.com/eslindsey/everyplate/issues)
-or [filing a pull request](https://github.com/eslindsey/everyplate/pulls)!
+Keep this page up to date by [letting us know about any issues](https://github.com/eslindsey/everyplate/issues)!
 
 Big thanks to [u/Sstagman](https://www.reddit.com/user/Sstagman/) for starting this list
 [on Reddit](https://www.reddit.com/r/everyplate/comments/et0ggm/1_unit/)!
