@@ -8,10 +8,10 @@ style: |
   }
   td:nth-of-type(2), th:nth-of-type(2) {
     border-right: none;
-    padding-right: 0.25em;
+    padding-right: 0.125em;
   }
   td:nth-of-type(3), th:nth-of-type(3) {
-    padding-left: none;
+    padding-left: 0.125em;
   }
 ---
 # Units
