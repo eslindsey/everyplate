@@ -6,6 +6,9 @@ A list of the contents of the spice blends provided by EveryPlate and HelloFresh
 
 See something missing? Submit [an issue](https://github.com/eslindsey/everyplate/issues) to the repository!
 
+Big shout out to [u/letitburn22](https://www.reddit.com/user/letitburn22/) for compiling this initial list
+[on Reddit](https://www.reddit.com/r/hellofresh/comments/bawnby/hello_fresh_diy_spice_blends/)!
+
 ## The List
 
 * [Berbere Spice Blend](#berbere-spice-blend)
