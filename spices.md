@@ -1,6 +1,4 @@
-layout: page
-title: "Spice Blends"
-permalink: /spice-blends
+# Spice Blends
 
 This is a list of the contents of the spice blends provided by EveryPlate and HelloFresh, in case you'd
 like to make them yourself.
