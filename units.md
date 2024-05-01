@@ -16,57 +16,57 @@ Big thanks to [u/Sstagman](https://www.reddit.com/user/Sstagman/) for starting t
 
 ## The List
 
-| Ingredient | 1 Unit | Notes |
-|:-----------|-------:|:------|
-| Apricot Jam Spread | 1 oz |
-| Balsamic Vinegar | 25 mL |
-| Basmati Rice | ¾ cup |
-| Beef Stock Concentrate | 0.42 oz |
-| Black Beans | 13.4 oz |
-| Buttermilk Ranch Dressing | 1.5 oz |
-| Button Mushrooms | 4 oz |
-| Cherry Jam | 1 oz |
-| Chicken Demi-Glace | 1.32 oz |
-| Chicken Stock Concentrate | 0.34 oz |
-| Chickpeas | 13.4 oz |
-| Coconut Milk | ⅔ cup |
-| Coleslaw | 3 TBSP |
-| Corn | 15.25 oz |
-| Corn Starch | 1 TBSP |
-| Couscous | ½ cup |
-| Cream Cheese | 1 ounce |
-| Dijon Honey Mustard Dressing | 1.5 oz |
-| Dijon Mustard | 0.25 oz | [1](#notes) |
-| Dried Thyme | 1 tsp |
-| Farro | ¾ cup<br/>5 oz | [2](#notes) |
-| Flour Tortillas | 6 tortillas |
-| Frank's Seasoning Blend | 0.25 oz |
-| Ginger | 0.5 oz |
-| Hoisin Sauce | 1 fl oz |
-| Honey | 0.5 oz |
-| Jasmine Rice | ¾ cup |
-| Linguine | 6 oz |
-| Marinara Sauce | 2.5 oz |
-| Oregano | 1 tsp |
-| Orzo | 6 oz |
-| Panko Breadcrumbs | ½ cup |
-| Parsley | 0.2 oz | [1](#notes) |
-| Peanuts | 1 oz |
-| Ponzu Sauce | 2 tsp |
-| Scallions | 2 scallions |
-| Shredded Mozzarella | 2 oz |
-| Sour Cream | 1 oz |
-| Southwest Spice Blend | 1 TBSP |
-| Soy Sauce | 0.34 oz | [1](#notes) |
-| Sweet Thai Chili Sauce | 2 TBSP |
-| Tomato Paste | 2 TBSP |
-| Turkish Spice Blend | 1 TBSP |
-| Tuscan Heat Spice | 1 TBSP |
-| Reduced Fat Milk | 8 oz |
-| White Wine Vinegar | 25 mL |
-| Wasabi | 0.15 oz |
-| White Rice | ¾ cup |
-| Yogurt | 1 oz |
+| Ingredient | 1 | Unit | Notes |
+|:-----------|--:|:-----|:------|
+| Apricot Jam Spread | 1 | oz |
+| Balsamic Vinegar | 25 | mL |
+| Basmati Rice | ¾ | cup |
+| Beef Stock Concentrate | 0.42 | oz |
+| Black Beans | 13.4 | oz |
+| Buttermilk Ranch Dressing | 1.5 | oz |
+| Button Mushrooms | 4 | oz |
+| Cherry Jam | 1 | oz |
+| Chicken Demi-Glace | 1.32 | oz |
+| Chicken Stock Concentrate | 0.34 | oz |
+| Chickpeas | 13.4 | oz |
+| Coconut Milk | ⅔ | cup |
+| Coleslaw | 3 | TBSP |
+| Corn | 15.25 | oz |
+| Corn Starch | 1 | TBSP |
+| Couscous | ½ | cup |
+| Cream Cheese | 1 | oz |
+| Dijon Honey Mustard Dressing | 1.5 | oz |
+| Dijon Mustard | 0.25 | oz | [1](#notes) |
+| Dried Thyme | 1 | tsp |
+| Farro | ¾<br/>5 | cup<br/>oz | [2](#notes) |
+| Flour Tortillas | 6 | tortillas |
+| Frank's Seasoning Blend | 0.25 | oz |
+| Ginger | 0.5 | oz |
+| Hoisin Sauce | 1 | fl oz |
+| Honey | 0.5 | oz |
+| Jasmine Rice | ¾ | cup |
+| Linguine | 6 | oz |
+| Marinara Sauce | 2.5 | oz |
+| Oregano | 1 | tsp |
+| Orzo | 6 | oz |
+| Panko Breadcrumbs | ½ | cup |
+| Parsley | 0.2 | oz | [1](#notes) |
+| Peanuts | 1 | oz |
+| Ponzu Sauce | 2 | tsp |
+| Scallions | 2 | scallions |
+| Shredded Mozzarella | 2 | oz |
+| Sour Cream | 1 | oz |
+| Southwest Spice Blend | 1 | TBSP |
+| Soy Sauce | 0.34 | oz | [1](#notes) |
+| Sweet Thai Chili Sauce | 2 | TBSP |
+| Tomato Paste | 2 | TBSP |
+| Turkish Spice Blend | 1 | TBSP |
+| Tuscan Heat Spice | 1 | TBSP |
+| Reduced Fat Milk | 8 | oz |
+| White Wine Vinegar | 25 | mL |
+| Wasabi | 0.15 | oz |
+| White Rice | ¾ | cup |
+| Yogurt | 1 | oz |
 
 ## Notes
 
