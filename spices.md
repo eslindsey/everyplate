@@ -34,6 +34,7 @@ amount you are trying to make.
 * [Mediterranean Spice Blend](#mediterranean-spice-blend)
 * [Mexican Spice Blend](#mexican-spice-blend)
 * [Moo Shu Spice Blend](#moo-shu-spice-blend)
+* [Nan's Seasoning (aka Grandma's Seasoning)](#nans-seasoning-aka-grandmas-seasoning)
 * [Ras El Hanout](#ras-el-hanout)
 * [Shawarma Spice Blend](#shawarma-spice-blend)
 * [Smokey BBQ Seasoning](#smokey-bbq-seasoning)
