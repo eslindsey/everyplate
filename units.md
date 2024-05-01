@@ -4,8 +4,8 @@ This document is a record of how much EveryPlate (and HelloFresh) considers "1 u
 their recipe cards.
 
 **Note:** Only ingredients listed as "1" or "1 unit" will be included in this list, and
-only if the actual amount is dubious (so "Chicken Breast: 10 oz." and "1 Zucchini" will
-be excluded).
+only if the actual amount is dubious (so things like "Chicken Breast: 10 oz" and "Tomato:
+1" will be excluded).
 
 ## Help Out
 
