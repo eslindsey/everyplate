@@ -19,9 +19,9 @@ style: |
 This document is a record of how much EveryPlate (and HelloFresh) considers "1 unit" on
 their recipe cards.
 
-**Note:** Only ingredients listed as "1" or "1 unit" will be included in this list, and
-only if the actual amount is dubious (so things like "Chicken Breast: 10 oz" and "Tomato:
-1" will be excluded).
+**Note:** Only ingredients listed like "1 | 2" or "1 unit | 2 units" will be included in
+this list, and then only if the actual amount is dubious (so things like "Chicken Breast:
+10 oz" and "Tomato: 1" will be excluded).
 
 ## Help Out
 
@@ -55,7 +55,7 @@ Big thanks to [u/Sstagman](https://www.reddit.com/user/Sstagman/) for starting t
 | Dijon Mustard | 0.25 | oz | [1](#notes) |
 | Dried Thyme | 1 | tsp |
 | Farro | ¾<br/>5 | cup<br/>oz | [2](#notes) |
-| Flour Tortillas | 6 | tortillas (6") |
+| Flour Tortillas | 6 | (6") |
 | Frank's Seasoning Blend | 0.25 | oz |
 | Ginger | 0.5 | oz |
 | Hoisin Sauce | 1 | fl oz |
