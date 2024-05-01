@@ -3,6 +3,11 @@
 
 @import "{{ site.theme }}";
 
+th {
+  background: #cd596b;
+  color: #ffffff;
+}
+
 tr:nth-of-type(even) {
   background: #f5ede0;
 }
