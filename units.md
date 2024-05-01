@@ -1,6 +1,7 @@
-# EveryPlate Units
+# Units
 
-This document is a record of how much EveryPlate considers "1 unit" on their recipe cards.
+This document is a record of how much EveryPlate (and HelloFresh) considers "1 unit" on
+their recipe cards.
 
 **Note:** Only ingredients listed as "1" or "1 unit" will be included in this list, and
 only if the actual amount is dubious (so "Chicken Breast: 10 oz." and "1 Zucchini" will
