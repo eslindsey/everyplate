@@ -3,11 +3,14 @@ layout: default
 title: Units
 permalink: /units
 style: |
-  td.nth-of-type(2) {
+  td.first-of-type {
+    font-weight: bold;
+  }
+  td.nth-of-type(2), th.nth-of-type(2) {
     border-right: none;
     padding-right: 0.25em;
   }
-  td.nth-of-type(3) {
+  td.nth-of-type(3), th.nth-of-type(3) {
     padding-left: none;
   }
 ---
