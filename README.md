@@ -1,3 +1,8 @@
+---
+layout: default
+title: About
+permalink: /
+---
 # About
 
 This is a repository of information about the EveryPlate (and HelloFresh) meal
@@ -13,4 +18,4 @@ missing/out-of-date information.
 ## Contents
 
 * [Units](units.html) — What EP/HF considers "1 unit"
-* [Spices](spices.html) — Spice packet ingredients, for making your own
+* [Spice Blends](spices.html) — Spice packet ingredients, for making your own
