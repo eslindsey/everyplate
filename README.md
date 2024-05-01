@@ -1,10 +1,16 @@
 # About
 
-This is a repository of information about the EveryPlate meal kits and their recipes.
-Netizens are welcome (and encouraged) to submit pull requests to
-[this repository](https://github.com/eslindsey/everyplate/) to add or update
-missing or out-of-date information.
+This is a repository of information about the EveryPlate (and HelloFresh) meal
+kits and their recipes.
+
+## Help Out
+
+You are welcomed (and encouraged) to submit
+[issues](https://github.com/eslindsey/everyplate/issues) or
+[pull requests](https://github.com/eslindsey/everyplate/) to add or update
+missing/out-of-date information.
 
 ## Contents
 
-* [EveryPlate Units](units.html) — What EP considers "1 unit"
+* [Units](units.html) — What EP/HF considers "1 unit"
+* [Spices](spices.html) — Spice packet ingredients, for making your own
