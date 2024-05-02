@@ -15,6 +15,7 @@ defaults:
       layout: 'default'
   -
     scope:
-      path: '_spices'
+      path: ''
+      type: 'spices'
     values:
       layout: 'spice'
