@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Units
-permalink: /units
+navbar: 2
 style: |
   td:first-of-type {
     font-weight: bold;
