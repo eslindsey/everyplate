@@ -1,7 +1,7 @@
 ---
 title: Bold and Savory Steak Spice Blend
 ---
-- 1 [part](#parts) red chili flake
+- 1 part red chili flake
 - 1 part crushed coriander seed
 - 2 parts crushed dill seed
 - 3 parts crushed mustard seed
