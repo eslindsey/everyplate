@@ -18,8 +18,9 @@ missing/out-of-date information.
 ## Pages
 
 <dl>
-  <dd>["Units" of Measure]({% link units.md %})</dd>
-  <dt>What EP/HF considers "1 unit" on their recipe cards</dt>
-  <dd>[Spice Blends]({% link spices.md %})</dd>
-  <dt>Spice packet ingredients, for making your own</dt>
+  {% assign nav_pages = site.pages | where_exp: 'p', 'p.navbar > 1' | sort: 'navbar' %}
+  {% for p in nav_pages %}
+    <dt><a href="{{ p.url | relative_url }}">{{ p.longtitle }}</a></dt>
+    <dd>{{ p.description }}</dd>
+  {% endfor %}
 </dl>
