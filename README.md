@@ -1,6 +1,7 @@
 ---
 layout: default
 title: About
+permalink: /
 navbar: 1
 ---
 # About
