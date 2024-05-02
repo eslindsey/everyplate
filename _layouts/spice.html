@@ -2,7 +2,6 @@
 layout: default
 ---
 <p>This is how EveryPlate and HelloFresh make the spice they call {{ page.title }}:</p>
-{% assign newcontent = content | replace: '#', '####' | replace: '</h1>', '</h4>' %}
-{{ newcontent }}
+{{ page.content | replace: '#', '####' }}
 <hr/>
 <a href="{{ site.github.baseurl }}{% link spices.md %}">&laquo; Back to Spice Blends</a>
