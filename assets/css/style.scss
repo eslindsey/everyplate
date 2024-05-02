@@ -11,3 +11,12 @@ th {
 tr:nth-of-type(even) {
   background: #f8f0e3;
 }
+
+.pages {
+  position: absolute;
+  top: 100px;
+  width: 600px;
+  text-align: center;
+  font-family: 'Open Sans', Myriad, Calibri, sans-serif;
+  color: #ffffff;
+}
