@@ -27,15 +27,6 @@ amount you are trying to make.
   * [{{ s.title }}]({{ s.url | relative_url }})
 {% endfor %}
 
-### Fajita Spice Blend
-
-- 4 [parts](#parts) paprika
-- 1 part onion powder
-- 1 part garlic powder
-- 1 part chili powder
-- 1 part cumin
-- 1 part oregano
-
 ### Fall Spice Blend
 
 - 3 [parts](#parts) dried thyme
