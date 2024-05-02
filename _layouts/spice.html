@@ -3,4 +3,5 @@ layout: default
 ---
 <h1>{{ page.title }}</h1>
 <p>This is how EveryPlate and HelloFresh make the spice they call {{ page.title }}:</p>
-{{ content | replace: '#', '###' | markdownify }}
+{% assign c = content | replace: '#', '###' %}
+{{ c }}
