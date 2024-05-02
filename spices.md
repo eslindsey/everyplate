@@ -27,18 +27,6 @@ amount you are trying to make.
   * [{{ s.title }}]({{ s.url | relative_url }})
 {% endfor %}
 
-### Steak Spice Blend
-
-- 1 [part](#parts) red chili flakes
-- 1 part crushed coriander seed
-- 2 parts crushed dill seed
-- 3 parts crushed mustard seed
-- 4 parts dried minced garlic
-- 4 parts crushed black pepper
-- 3 parts kosher salt
-
-Courtesy of [u/XmariyahX](https://www.reddit.com/user/XmariyahX/)
-
 ### Sweet Smoky BBQ Spice Blend
 
 - 8 [parts](#parts) smoked paprika
