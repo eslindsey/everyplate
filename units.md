@@ -15,8 +15,6 @@ style: |
     padding-left: 0.125em;
   }
 ---
-# Units
-
 This document is a record of how much EveryPlate (and HelloFresh) considers "1 unit" on
 their recipe cards.
 
