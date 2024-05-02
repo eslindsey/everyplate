@@ -33,7 +33,7 @@
         <div class="ribbon-outer">
           <div class="ribbon-inner">
             <ul id="navbar">
-              {% assign navbar_pages = site.pages | where_exp:'p','p.navbar > 0' | sort:'navbar' %}
+              {% assign navbar_pages = site.pages | where_exp: 'p','p.navbar > 0' | sort: 'navbar' %}
               {% for p in navbar_pages %}
                 <li><a href="{{ p.url | relative_url }}">{{ p.title }}</a></li>
               {% endfor %}
