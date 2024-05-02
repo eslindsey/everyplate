@@ -27,17 +27,6 @@ amount you are trying to make.
   * [{{ s.title }}]({{ s.url | relative_url }})
 {% endfor %}
 
-### Nan's Seasoning (aka Grandma's Seasoning)
-
-- 1 tsp paprika
-- 1 tsp Sugar
-- ½ tsp Sea salt
-- ½ tsp Garlic powder
-- ½ tsp Onion powder
-- ½ tsp Black pepper
-
-Courtesy of [u/Estellar123](https://www.reddit.com/user/Estellar123/)
-
 ### Ras El Hanout
 
 - 1 tsp ground cumin
