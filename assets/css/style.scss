@@ -17,11 +17,14 @@ tr:nth-of-type(even) {
   top: 90px;
   width: 600px;
   text-align: center;
-  font-family: 'Open Sans', Myriad, Calibri, sans-serif;
-  color: #ffffff;
 }
 
 #navbar li {
   display: inline;
   margin-right: 1.5em;
+}
+
+#navbar li a {
+  font-family: 'Open Sans', Myriad, Calibri, sans-serif;
+  color: #ffffff;
 }
