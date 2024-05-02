@@ -1,7 +1,7 @@
 ---
 title: Berbere Spice Blend
 ---
-- 3 [part](#parts) paprika
+- 3 parts paprika
 - 1 part cayenne
 - ½ part ground coriander
 - ¼ part ground ginger
