@@ -15,7 +15,7 @@ style: |
     padding-left: 0.125em;
   }
 ---
-This document is a record of how much EveryPlate (and HelloFresh) considers "1 unit" on
+This document is a record of how much EveryPlate and HelloFresh consider "1 unit" on
 their recipe cards.
 
 **Note:** Only ingredients listed like "1 | 2" or "1 unit | 2 units" will be included in
