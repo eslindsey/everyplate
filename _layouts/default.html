@@ -33,8 +33,8 @@
         <div class="ribbon-outer">
           <div class="ribbon-inner">
             <ul id="navbar">
-              {% for p in site.pages %}
-                <li><a href="{{ p.url | relative_url }}">{{ p }}</a></li>
+              {% for p in site.pages | where:"dir","/" %}
+                <li><a href="{{ p.url | relative_url }}">{{ p.title }}</a></li>
               {% endfor %}
             </ul>
             <a href="{{ site.github.baseurl }}"><h1>{{ site.title | default: site.github.repository_name }}</h1></a>
