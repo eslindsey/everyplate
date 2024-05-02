@@ -27,16 +27,6 @@ amount you are trying to make.
   * [{{ s.title }}]({{ s.url | relative_url }})
 {% endfor %}
 
-### Italian Seasoning Blend
-
-- 1 [part](#parts) garlic powder
-- 1 part oregano
-- 1 part basil
-- 1 part black pepper
-- 1 part parsley
-
-Courtesy of [u/XmariyahX](https://www.reddit.com/user/XmariyahX/)
-
 ### Meatloaf Seasoning
 
 - 2 [parts](#parts) onion powder
