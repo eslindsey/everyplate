@@ -27,16 +27,6 @@ amount you are trying to make.
   * [{{ s.title }}]({{ s.url | relative_url }})
 {% endfor %}
 
-### Smokey BBQ Seasoning
-
-- 8 [parts](#parts) smoked paprika
-- 6 parts granulated sugar
-- 2 parts garlic powder
-- 1 part dry mustard
-- 1 part ground cumin
-- 1 part ground ginger
-- ½ part black pepper
-
 ### Smoky Cinnamon Paprika Spice Blend
 
 - 1 [part](#parts) ground cloves
