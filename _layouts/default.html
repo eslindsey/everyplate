@@ -34,7 +34,8 @@
           <div class="ribbon-inner">
             <ul id="navbar">
               {% for p in site.pages %}
-                <li><a href="{{ site.github.baseurl }}/{{ p.url }}">{{ p.title }}</a></li>
+                {% if 
+                <li><a href="{{ p.url | relative_url }}">{{ p }}</a></li>
               {% endfor %}
             </ul>
             <a href="{{ site.github.baseurl }}"><h1>{{ site.title | default: site.github.repository_name }}</h1></a>
