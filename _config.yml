@@ -19,3 +19,5 @@ defaults:
       type: 'spices'
     values:
       layout: 'spice'
+exclude:
+  - README.md
