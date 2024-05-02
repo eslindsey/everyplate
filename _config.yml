@@ -13,3 +13,8 @@ defaults:
       path: ''
     values:
       layout: 'default'
+  -
+    scope:
+      path: 'spices'
+    values:
+      layout: 'spice'
