@@ -12,11 +12,16 @@ tr:nth-of-type(even) {
   background: #f8f0e3;
 }
 
-#menu {
+#navbar {
   position: absolute;
-  top: 100px;
+  top: 90px;
   width: 600px;
   text-align: center;
   font-family: 'Open Sans', Myriad, Calibri, sans-serif;
   color: #ffffff;
+}
+
+#navbar li {
+  display: inline;
+  margin-right: 1.5em;
 }
