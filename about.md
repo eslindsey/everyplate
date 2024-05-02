@@ -3,9 +3,7 @@ title: About
 permalink: /
 navbar: 1
 ---
-# About
-
-This is a repository of information about the EveryPlate (and HelloFresh) meal
+This is a repository of information about the EveryPlate and HelloFresh meal
 kits and their recipes.
 
 ## Help Out
