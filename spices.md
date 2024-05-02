@@ -27,11 +27,6 @@ amount you are trying to make.
   * [{{ s.title }}]({{ s.url | relative_url }})
 {% endfor %}
 
-### Meatloaf Seasoning
-
-- 2 [parts](#parts) onion powder
-- 2 parts garlic powder
-
 ### Mediterranean Spice Blend
 
 - 2 [parts](#parts) dried oregano
