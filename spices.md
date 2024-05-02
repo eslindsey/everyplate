@@ -1,7 +1,7 @@
 ---
 title: Spices
-longtitle: Spice Blends
-description: Spice packet ingredients, for making your own
+longtitle: 'Spice Blends'
+description: 'Spice packet ingredients, for making your own'
 navbar: 3
 ---
 This is a list of the contents of the spice blends provided by EveryPlate and HelloFresh, in case you'd
