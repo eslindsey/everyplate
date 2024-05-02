@@ -1,5 +1,7 @@
 ---
 title: Units
+longtitle: "Units" of Measurement
+description: What EP/HF considers "1 unit" on their recipe cards
 navbar: 2
 style: |
   td:first-of-type {
