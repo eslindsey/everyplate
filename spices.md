@@ -27,12 +27,6 @@ amount you are trying to make.
   * [{{ s.title }}]({{ s.url | relative_url }})
 {% endfor %}
 
-### Southwest Spice Blend
-
-- 4 [part](#parts) garlic powder
-- 2 part cumin
-- 2 part chili powder
-
 ### Steak Spice Blend
 
 - 1 [part](#parts) red chili flakes
