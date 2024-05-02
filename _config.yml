@@ -5,6 +5,11 @@ permalink: /:title
 collections:
   spices:
     output: true
-    layout: default
   units:
     output: false
+defaults:
+  -
+    scope:
+      path: ''
+    values:
+      layout: 'default'
