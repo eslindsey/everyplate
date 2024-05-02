@@ -15,7 +15,11 @@ You are welcomed (and encouraged) to submit
 [pull requests](https://github.com/eslindsey/everyplate/) to add or update
 missing/out-of-date information.
 
-## Contents
+## Pages
 
-* [Units](units.html) — What EP/HF considers "1 unit"
-* [Spice Blends](spices.html) — Spice packet ingredients, for making your own
+<dl>
+  <dd>["Units" of Measure]({% link units.md %})</dd>
+  <dt>What EP/HF considers "1 unit" on their recipe cards</dt>
+  <dd>[Spice Blends]({% link spices.md %})</dd>
+  <dt>Spice packet ingredients, for making your own</dt>
+</dl>
