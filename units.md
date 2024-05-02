@@ -1,5 +1,4 @@
 ---
-layout: default
 title: Units
 navbar: 2
 style: |
