@@ -27,18 +27,6 @@ amount you are trying to make.
   * [{{ s.title }}]({{ s.url | relative_url }})
 {% endfor %}
 
-### Tunisian Spice Blend
-
-- 4 [parts](#parts) ground caraway seed
-- 4 parts ground coriander
-- 4 parts smoked paprika
-- 4 parts turmeric
-- 4 parts chili powder
-- 4 parts garlic powder
-- 1 part cayenne pepper (7.5k hu[¹](#notes))
-- 1 part cinnamon
-- 1 part ground black pepper
-
 ### Turkish Spice Blend
 
 - 2 [part](#parts) cumin
