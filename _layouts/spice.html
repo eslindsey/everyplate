@@ -1,8 +1,6 @@
 ---
 layout: default
 ---
-# {{ page.title }}
-
-This is how EveryPlate (and HelloFresh) makes the spice they call {{ page.title }}:
-
-{{ content | replace: '#', '###' }}
+<h1>{{ page.title }}</h1>
+<p>This is how EveryPlate and HelloFresh make the spice they call {{ page.title }}:</p>
+{{ content | replace: '#', '###' | markdownify }}
