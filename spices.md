@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Spice Blends
-permalink: /spices
+title: Spices
+navbar: 3
 ---
 # Spice Blends
 
