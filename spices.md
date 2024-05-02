@@ -27,14 +27,6 @@ amount you are trying to make.
   * [{{ s.title }}]({{ s.url | relative_url }})
 {% endfor %}
 
-### Turkish Spice Blend
-
-- 2 [part](#parts) cumin
-- 2 part garlic powder
-- 1 part ground coriander
-- ¼ part ground allspice
-- ¼ part chili flakes
-
 ### Tuscan Heat Spice Blend
 
 - 4 [parts](#parts) dried basil
