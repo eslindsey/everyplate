@@ -27,16 +27,6 @@ amount you are trying to make.
   * [{{ s.title }}]({{ s.url | relative_url }})
 {% endfor %}
 
-### Shawarma Spice Blend
-
-- 2 [part](#parts) tumeric
-- 2 part cumin
-- 1 part dried coriander
-- 1 part garlic powder
-- 1 part paprika
-- ½ part ground allspice
-- ½ part black pepper
-
 ### Smokey BBQ Seasoning
 
 - 8 [parts](#parts) smoked paprika
