@@ -32,7 +32,13 @@
       <header>
         <div class="ribbon-outer">
           <div class="ribbon-inner">
-            <div class="pages">About | Units | Spices</div>
+            <div id="menu">
+              <ul>
+                {% for page in site.pages %}
+                  <li><a href="{{ page[1] }}">{{ page[0] }}</a></li>
+                {% endfor %}
+              </ul>
+            </div>
             <a href="{{ site.github.baseurl }}"><h1>{{ site.title | default: site.github.repository_name }}</h1></a>
             <h2>{{ site.description | default: site.github.project_tagline }}</h2>
           </div>
