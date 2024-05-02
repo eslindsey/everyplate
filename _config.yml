@@ -1,7 +1,4 @@
 title: Everything EveryPlate
 description: All about the EveryPlate and HelloFresh meal kits and their recipes!
 theme: jekyll-theme-merlot
-pages:
-  - About: 
-  - Units: units
-  - Spices: spices
+permalink: /:title
