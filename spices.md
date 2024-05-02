@@ -27,15 +27,6 @@ amount you are trying to make.
   * [{{ s.title }}]({{ s.url | relative_url }})
 {% endfor %}
 
-### Tuscan Heat Spice Blend
-
-- 4 [parts](#parts) dried basil
-- 2 parts dried rosemary
-- 2 parts dried oregano
-- 2 parts garlic powder
-- 1 part cayenne pepper (7.5k hu[¹](#notes))
-- 1 part ground fennel
-
 ## Notes
 
 1. "hu" is heat unit. Most blends call for a low heat cayenne pepper (7,500 heat units or 7.5k hu) on the Scoville Scale.
