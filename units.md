@@ -60,6 +60,7 @@ Big thanks to [u/Sstagman](https://www.reddit.com/user/Sstagman/) for starting t
 | Hoisin Sauce | 1 | fl oz |
 | Honey | 0.5 | oz |
 | Israeli Couscous | ½ | cup |
+| [Italian Seasoning](spices/italian-seasoning) | 1 | TBSP |
 | Jasmine Rice | ¾ | cup |
 | Linguine | 6 | oz |
 | Marinara Sauce | 2.5 | oz |
