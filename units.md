@@ -37,7 +37,7 @@ Big thanks to [u/Sstagman](https://www.reddit.com/user/Sstagman/) for starting t
 | Balsamic Vinegar | 25 | mL |
 | Basmati Rice | ½ | cup |
 | Beef Stock Concentrate | 0.42 | oz |
-| Black Beans | 13.4 | oz |
+| Black Beans | 15.5 | oz |
 | Buttermilk Ranch Dressing | 1.5 | oz |
 | Button Mushrooms | 4 | oz |
 | Cherry Jam | 1 | oz |
