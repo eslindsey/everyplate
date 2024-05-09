@@ -51,6 +51,7 @@ Big thanks to [u/Sstagman](https://www.reddit.com/user/Sstagman/) for starting t
 | Corn Starch | 1 | TBSP |
 | Cream Cheese | 1 | oz |
 | Cream Sauce Base | 4 | oz |
+| Curry Powder | 1 | TBSP |
 | Dijon Honey Mustard Dressing | 1.5 | oz |
 | Dijon Mustard | 0.25 | oz | [1](#notes) |
 | Dried Thyme | 1 | tsp |
