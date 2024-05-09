@@ -64,7 +64,7 @@ Big thanks to [u/Sstagman](https://www.reddit.com/user/Sstagman/) for starting t
 | Israeli Couscous | ½ | cup |
 | [Italian Seasoning](spices/italian-seasoning) | 1 | TBSP |
 | Jasmine Rice | ¾ | cup |
-| Linguine | 6 | oz |
+| Linguine Pasta | 6 | oz |
 | Marinara Sauce | 2.5 | oz |
 | Oregano | 1 | tsp |
 | Orzo | 6 | oz |
