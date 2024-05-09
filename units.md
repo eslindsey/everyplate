@@ -78,7 +78,7 @@ Big thanks to [u/Sstagman](https://www.reddit.com/user/Sstagman/) for starting t
 | Shredded Pepper Jack | 2 | oz |
 | Smoked Paprika | 1 | tsp |
 | Sour Cream | 1 | oz |
-| Southwest Spice Blend | 1 | TBSP |
+| [Southwest Spice Blend](spices/southwest-spice-blend) | 1 | TBSP |
 | Soy Sauce | 0.34 | oz | [1](#notes) |
 | Sweet Thai Chili Sauce | 2 | TBSP |
 | Tomato Paste | 1.5 | oz |
