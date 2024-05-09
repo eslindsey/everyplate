@@ -71,8 +71,10 @@ Big thanks to [u/Sstagman](https://www.reddit.com/user/Sstagman/) for starting t
 | Peanuts | 1 | oz |
 | Ponzu Sauce | 2 | tsp |
 | Scallions | 2 |
+| Shredded Cheddar | 2 | oz |
 | Shredded Mozzarella | 2 | oz |
-| Shredded Parmesan | 0.75 | oz |
+| Shredded Parmesan | ¾ | oz |
+| Shredded Pepper Jack | 2 | oz |
 | Smoked Paprika | 1 | tsp |
 | Sour Cream | 1 | oz |
 | Southwest Spice Blend | 1 | TBSP |
