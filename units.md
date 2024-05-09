@@ -85,6 +85,7 @@ Big thanks to [u/Sstagman](https://www.reddit.com/user/Sstagman/) for starting t
 | [Southwest Spice Blend](spices/southwest-spice-blend) | 1 | TBSP |
 | Soy Sauce | 0.34 | oz | [1](#notes) |
 | Sweet Thai Chili Sauce | 2 | TBSP |
+| Tex-Mex Paste | 1 | oz |
 | Tomato Paste | 1.5 | oz |
 | Turkish Spice Blend | 1 | TBSP |
 | Tuscan Heat Spice | 1 | TBSP |
