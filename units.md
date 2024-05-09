@@ -67,12 +67,12 @@ Big thanks to [u/Sstagman](https://www.reddit.com/user/Sstagman/) for starting t
 | Orzo | 6 | oz |
 | Panko Breadcrumbs | ½ | cup |
 | Paprika | 1 | tsp |
-| Parmesan | 0.75 | oz |
 | Parsley | 0.2 | oz | [1](#notes) |
 | Peanuts | 1 | oz |
 | Ponzu Sauce | 2 | tsp |
 | Scallions | 2 |
 | Shredded Mozzarella | 2 | oz |
+| Shredded Parmesan | 0.75 | oz |
 | Sour Cream | 1 | oz |
 | Southwest Spice Blend | 1 | TBSP |
 | Soy Sauce | 0.34 | oz | [1](#notes) |
