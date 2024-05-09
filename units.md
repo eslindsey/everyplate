@@ -74,6 +74,7 @@ Big thanks to [u/Sstagman](https://www.reddit.com/user/Sstagman/) for starting t
 | Parsley | 0.2 | oz | [1](#notes) |
 | Peanuts | 1 | oz |
 | Ponzu Sauce | 2 | tsp |
+| Reduced Fat Milk | 8 | oz |
 | Scallions | 2 |
 | Shredded Cheddar | 2 | oz |
 | Shredded Mozzarella | 2 | oz |
@@ -87,7 +88,7 @@ Big thanks to [u/Sstagman](https://www.reddit.com/user/Sstagman/) for starting t
 | Tomato Paste | 1.5 | oz |
 | Turkish Spice Blend | 1 | TBSP |
 | Tuscan Heat Spice | 1 | TBSP |
-| Reduced Fat Milk | 8 | oz |
+| Veggie Stock Concentrate | 0.34 | oz |
 | White Wine Vinegar | 25 | mL |
 | Wasabi | 0.15 | oz |
 | White Rice | ¾ | cup |
