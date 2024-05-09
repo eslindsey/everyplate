@@ -66,6 +66,7 @@ Big thanks to [u/Sstagman](https://www.reddit.com/user/Sstagman/) for starting t
 | Oregano | 1 | tsp |
 | Orzo | 6 | oz |
 | Panko Breadcrumbs | ½ | cup |
+| Paprika | 1 | tsp |
 | Parsley | 0.2 | oz | [1](#notes) |
 | Peanuts | 1 | oz |
 | Ponzu Sauce | 2 | tsp |
