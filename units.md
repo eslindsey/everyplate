@@ -44,6 +44,7 @@ Big thanks to [u/Sstagman](https://www.reddit.com/user/Sstagman/) for starting t
 | Chicken Demi-Glace | 1.32 | oz |
 | Chicken Stock Concentrate | 0.34 | oz |
 | Chickpeas | 13.4 | oz |
+| Ciabatta | 4x4 | inches |
 | Coconut Milk | ⅔ | cup |
 | Coleslaw | 3 | TBSP |
 | Corn | 15.25 | oz |
