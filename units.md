@@ -45,7 +45,7 @@ Big thanks to [u/Sstagman](https://www.reddit.com/user/Sstagman/) for starting t
 | Chicken Stock Concentrate | 0.34 | oz |
 | Chickpeas | 13.4 | oz |
 | Ciabatta | 4x4 | inches |
-| Coconut Milk | ⅔ | cup |
+| Coconut Milk | 6.09 | fl oz |
 | Coleslaw | 3 | TBSP |
 | Corn | 15.25 | oz |
 | Corn Starch | 1 | TBSP |
