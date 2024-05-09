@@ -49,7 +49,6 @@ Big thanks to [u/Sstagman](https://www.reddit.com/user/Sstagman/) for starting t
 | Coleslaw | 3 | TBSP |
 | Corn | 15.25 | oz |
 | Corn Starch | 1 | TBSP |
-| Couscous | ½ | cup |
 | Cream Cheese | 1 | oz |
 | Dijon Honey Mustard Dressing | 1.5 | oz |
 | Dijon Mustard | 0.25 | oz | [1](#notes) |
@@ -60,6 +59,7 @@ Big thanks to [u/Sstagman](https://www.reddit.com/user/Sstagman/) for starting t
 | Ginger | 0.5 | oz |
 | Hoisin Sauce | 1 | fl oz |
 | Honey | 0.5 | oz |
+| Israeli Couscous | ½ | cup |
 | Jasmine Rice | ¾ | cup |
 | Linguine | 6 | oz |
 | Marinara Sauce | 2.5 | oz |
