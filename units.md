@@ -35,7 +35,7 @@ Big thanks to [u/Sstagman](https://www.reddit.com/user/Sstagman/) for starting t
 |:-----------|--:|:-----|:------|
 | Apricot Jam Spread | 1 | oz |
 | Balsamic Vinegar | 25 | mL |
-| Basmati Rice | ¾ | cup |
+| Basmati Rice | ½ | cup |
 | Beef Stock Concentrate | 0.42 | oz |
 | Black Beans | 13.4 | oz |
 | Buttermilk Ranch Dressing | 1.5 | oz |
