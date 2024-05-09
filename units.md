@@ -40,6 +40,7 @@ Big thanks to [u/Sstagman](https://www.reddit.com/user/Sstagman/) for starting t
 | Black Beans | 15.5 | oz |
 | Buttermilk Ranch Dressing | 1.5 | oz |
 | Button Mushrooms | 4 | oz |
+| Cavatappi Pasta | 6 | oz |
 | Cherry Jam | 1 | oz |
 | Chicken Demi-Glace | 1.32 | oz |
 | Chicken Stock Concentrate | 0.34 | oz |
