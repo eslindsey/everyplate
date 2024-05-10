@@ -88,12 +88,12 @@ Big thanks to [u/Sstagman](https://www.reddit.com/user/Sstagman/) for starting t
 | Sweet Thai Chili Sauce | 2 | TBSP |
 | Tex-Mex Paste | 1 | oz |
 | Tomato Paste | 1.5 | oz |
-| Turkish Spice Blend | 1 | TBSP |
+| [Turkish Spice Blend](spices/turkish-spice-blend) | 1 | TBSP |
 | Tuscan Heat Spice | 1 | TBSP |
 | Veggie Stock Concentrate | 0.34 | oz |
-| White Wine Vinegar | 25 | mL |
 | Wasabi | 0.15 | oz |
 | White Rice | ¾ | cup |
+| White Wine Vinegar | 25 | mL |
 | Yogurt | 1 | oz |
 
 ## Notes
