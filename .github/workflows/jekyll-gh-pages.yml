@@ -42,8 +42,8 @@ jobs:
           python .github/workflows/sortandlink.py
       - name: Commit
         run: |
-          git config user.name "Eric Lindsey"
-          git config user.email "eslindsey@gmail.com"
+          git config --global user.name "Eric Lindsey"
+          git config --global user.email "eslindsey@gmail.com"
           git commit -am "Bot cleanup"
           git push
       - name: Setup Pages
