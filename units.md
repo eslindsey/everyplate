@@ -61,6 +61,7 @@ Big thanks to [u/Sstagman](https://www.reddit.com/user/Sstagman/) for starting t
 | Flour Tortillas | 6 | (6") |
 | Frank's Seasoning Blend | 0.25 | oz |
 | Ginger | 0.5 | oz |
+| Green Beans | 6 | oz | [1](#notes) |
 | Hoisin Sauce | 1 | fl oz |
 | Honey | 0.5 | oz |
 | Israeli Couscous | ½ | cup |
