@@ -34,6 +34,7 @@ Big thanks to [u/Sstagman](https://www.reddit.com/user/Sstagman/) for starting t
 | Ingredient | 1 | Unit | Notes |
 |:-----------|--:|:-----|:------|
 | Apricot Jam Spread | 1 | oz |
+| Arborio Rice | 5.75 | oz |
 | Balsamic Vinegar | 25 | mL |
 | Basmati Rice | ½ | cup |
 | Beef Stock Concentrate | 0.42 | oz |
@@ -51,8 +52,10 @@ Big thanks to [u/Sstagman](https://www.reddit.com/user/Sstagman/) for starting t
 | Coleslaw | 3 | TBSP |
 | Corn | 15.25 | oz |
 | Corn Starch | 1 | TBSP |
+| Cranberries | 1 | oz |
 | Cream Cheese | 1 | oz |
 | Cream Sauce Base | 4 | oz |
+| Crispy Fried Onions | 1 | oz |
 | Curry Powder | 1 | TBSP |
 | Dijon Honey Mustard Dressing | 1.5 | oz |
 | Dijon Mustard | 0.25 | oz | [1](#notes) |
@@ -60,6 +63,8 @@ Big thanks to [u/Sstagman](https://www.reddit.com/user/Sstagman/) for starting t
 | Farro | ¾<br/>5 | cup<br/>oz | [2](#notes) |
 | Flour Tortillas | 6 | (6") |
 | Frank's Seasoning Blend | 0.25 | oz |
+| Fry Seasoning | 0.25 | oz |
+| Garlic Powder | 1 | tsp |
 | Ginger | 0.5 | oz |
 | Green Beans | 6 | oz | [1](#notes) |
 | Hoisin Sauce | 1 | fl oz |
@@ -79,6 +84,7 @@ Big thanks to [u/Sstagman](https://www.reddit.com/user/Sstagman/) for starting t
 | Reduced Fat Milk | 8 | oz |
 | Scallions | 2 |
 | Shredded Cheddar | 2 | oz |
+| Shredded Monterey Jack | 1 | oz |
 | Shredded Mozzarella | 2 | oz |
 | Shredded Parmesan | ¾ | oz |
 | Shredded Pepper Jack | 2 | oz |
@@ -86,6 +92,7 @@ Big thanks to [u/Sstagman](https://www.reddit.com/user/Sstagman/) for starting t
 | Sour Cream | 1 | oz |
 | [Southwest Spice Blend](spices/southwest-spice-blend) | 1 | TBSP |
 | Soy Sauce | 0.34 | oz | [1](#notes) |
+| Spinach | 5 | oz |
 | Sweet Thai Chili Sauce | 2 | TBSP |
 | Tex-Mex Paste | 1 | oz |
 | Tomato Paste | 1.5 | oz |
