@@ -91,6 +91,7 @@ Big thanks to [u/Sstagman](https://www.reddit.com/user/Sstagman/) for starting t
 | Shredded Parmesan | ¾ | oz |
 | Shredded Pepper Jack | 2 | oz |
 | Smoked Paprika | 1 | tsp |
+| Smoky Red Pepper Crema | 2 | TBSP |
 | Sour Cream | 1 | oz |
 | [Southwest Spice Blend](spices/southwest-spice-blend) | 1 | TBSP |
 | Soy Sauce | 0.34 | oz | [1](#notes) |
