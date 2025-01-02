@@ -35,6 +35,7 @@ Big thanks to [u/Sstagman](https://www.reddit.com/user/Sstagman/) for starting t
 |:-----------|--:|:-----|:------|
 | Apricot Jam Spread | 1 | oz |
 | Arborio Rice | 5.75 | oz |
+| Baby Lettuce | 5.75 | oz | [1](#notes) |
 | Balsamic Vinegar | 25 | mL |
 | Basmati Rice | ½ | cup |
 | Beef Stock Concentrate | 0.42 | oz |
