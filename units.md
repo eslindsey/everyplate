@@ -79,7 +79,7 @@ Big thanks to [u/Sstagman](https://www.reddit.com/user/Sstagman/) for starting t
 | Orzo | 6 | oz |
 | Panko Breadcrumbs | ½ | cup |
 | Paprika | 1 | tsp |
-| Parsley | 0.2 | oz | [1](#notes) |
+| Parsley | 0.25 | oz |
 | Peanuts | 1 | oz |
 | Ponzu Sauce | 2 | tsp |
 | Reduced Fat Milk | 8 | oz |
@@ -94,6 +94,7 @@ Big thanks to [u/Sstagman](https://www.reddit.com/user/Sstagman/) for starting t
 | [Southwest Spice Blend](spices/southwest-spice-blend) | 1 | TBSP |
 | Soy Sauce | 0.34 | oz | [1](#notes) |
 | Spinach | 5 | oz |
+| Sugar Snap Peas | 4 | oz |
 | Sweet Thai Chili Sauce | 2 | TBSP |
 | Tex-Mex Paste | 1 | oz |
 | Tomato Paste | 1.5 | oz |
