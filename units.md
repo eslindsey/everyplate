@@ -62,8 +62,8 @@ Big thanks to [u/Sstagman](https://www.reddit.com/user/Sstagman/) for starting t
 | Dried Thyme | 1 | tsp |
 | Farro | ¾<br/>5 | cup<br/>oz | [2](#notes) |
 | Flour Tortillas | 6 | (6") |
-| Frank's Seasoning Blend | 0.25 | oz |
 | Frank's Hot Sauce | 0.25 | oz |
+| Frank's Seasoning Blend | 0.25 | oz |
 | [Fry Seasoning](spices/fry-seasoning) | 0.25 | oz |
 | Garlic Powder | 1 | tsp |
 | Ginger | 0.5 | oz |
